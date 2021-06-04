@@ -1,5 +1,6 @@
 # Week17SpringBootFinalProject
-Final team project
+
+Final team project: code in master branch
 
 Theresa:
 -	Create SQL schema and starter data for vehicles (min 4 rows) and customers (min 5 rows) tables
